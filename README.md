@@ -1,2 +1,1 @@
-# Eye-disease-transfer-learning
-Eye disease classification using transfer learning and custom image preprocessing techniques on fundus images.
+[BGGRapor.pdf](https://github.com/user-attachments/files/20272094/BGGRapor.pdf)
